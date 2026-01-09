@@ -36,7 +36,7 @@ The course will introduce you to the world of data science.
 | 27th March | [Logistic Regression & Classification](https://docs.google.com/presentation/d/1M_akhAfDnJI-_RUHfAzQ-w8UT2KskCZeW_yfQBfd2gs/edit?usp=sharing) <br> [Logistic Regression (TH)](https://docs.google.com/presentation/d/1AcfYtpmVZ21biie7Wgj7SMwRWjQugtFBIz1LuMjFbGk/edit?usp=sharing)                     | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_In_class_Exercise_9.ipynb)      | [Video]  | [HW6](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF251_HW7_Logistic_Regression_(TH).ipynb)  |    
 | 3rd April | [Statistical Inference](https://docs.google.com/presentation/d/1vNecAYIrI33pcJ-L7i24GNt0s-0J-4DCaB0Xqr5wUvM/edit?usp=sharing) <br> [Statistical Inference (TH)](https://docs.google.com/presentation/d/1ULHaKsAiZC65dYXDm3_L_YakYSiM3Wb7cSQbWyeVi4A/edit?usp=sharing)                                                      | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_In_class_Exercise_10.ipynb)  | [Video]  | [Project Proposal](https://docs.google.com/document/d/1bQbccpSsG9L2cvW-rxlDNjgA7gryCAJpTN5xtwutGuo/edit?usp=sharing) (Due)  |      
 | 10th April | Quiz + [Data Story telling](https://docs.google.com/presentation/d/1E7gQW0d9vc486b-fgswmsB0qEqdj-DdByaptXZJxW4Q/edit?usp=sharing)   |      | [Video]    |       |       
-| 17th April | สงกรานต์ (Not Class)         |      |     |         |
+| 17th April | สงกรานต์ (No Class)         |      |     |         |
 | 24th April | Doing Data Science with AI  |    | [Video]   |       |   
 | 1st May | Final Project Presentation    |     |     |         |   
 
