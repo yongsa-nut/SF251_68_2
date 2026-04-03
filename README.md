@@ -41,8 +41,8 @@ The course will introduce you to the world of data science.
 | 1st May | Final Project Presentation    |     |     |         |   
 
 ## Grading Rubrics
-- Midterm: 20%
-- Quiz: 15%
-- Final Project: 19% - 4% Project Proposal, 10% Presentation (5 mins), 5% Code
-- Homework: 25% (5% each)
-- In-class Exercise: 16% (Most are 1% except a few)
+- Midterm: 22%
+- Quiz: 20%
+- Final Project: 18% - 4% Project Proposal, 10% Presentation (5 mins), 4% Code
+- Homework: 28% 
+- In-class Exercise: 12% (Most are 1% except a few)
