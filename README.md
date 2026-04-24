@@ -37,7 +37,7 @@ The course will introduce you to the world of data science.
 | 3rd April | [Statistical Inference](https://docs.google.com/presentation/d/1vNecAYIrI33pcJ-L7i24GNt0s-0J-4DCaB0Xqr5wUvM/edit?usp=sharing) <br> [Statistical Inference (TH)](https://docs.google.com/presentation/d/1ULHaKsAiZC65dYXDm3_L_YakYSiM3Wb7cSQbWyeVi4A/edit?usp=sharing)                                                      | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_In_class_Exercise_10.ipynb)  | [Video](https://youtu.be/Qa9QZRB5JM4)  |   |      
 | 10th April | Quiz + [Data Story telling](https://docs.google.com/presentation/d/1E7gQW0d9vc486b-fgswmsB0qEqdj-DdByaptXZJxW4Q/edit?usp=sharing)   |      |      |       |       
 | 17th April | สงกรานต์ (No Class)         |     |     |  [Project Proposal](https://docs.google.com/document/d/1bQbccpSsG9L2cvW-rxlDNjgA7gryCAJpTN5xtwutGuo/edit?usp=sharing) (Due)       |
-| 24th April | Doing Data Science with AI(https://docs.google.com/presentation/d/1yVQPO66vKw6di-UQXNBCY21MVQ37_0GP1ovBvaZZbvo/edit?usp=sharing)  |    | [Video]   |       |   
+| 24th April | [Doing Data Science with AI](https://docs.google.com/presentation/d/1yVQPO66vKw6di-UQXNBCY21MVQ37_0GP1ovBvaZZbvo/edit?usp=sharing)  |    | [Video]   |       |   
 | 1st May | Final Project Presentation    |     |     |         |   
 
 ## Grading Rubrics
